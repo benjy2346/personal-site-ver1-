@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(7, 62, 100);
+  font-family: "Poppins", sans-serif;
+}
+.nav {
+  background-color: rgb(7, 62, 100);
+  margin-top: 20px;
+  font-family: "Poppins", sans-serif;
+}
+p {
+  font-family: "Edu SA Beginner", cursive;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+#intro {
+  font-weight: bold;
+  margin-bottom: 15%;
+  margin-left: 30%;
+}
+h1 {
+  font-weight: 900;
+}
+.navbar-brand {
+  font-size: 1.5rem;
+}
+.download-button {
+  margin: 2% 3% 5% 0;
+}
+.skill-img {
+  width: 50%;
+  margin-bottom: 10%;
+}
+
+#skill-row {
+  margin-top: 10%;
+  padding: 10%;
+  background-color: aliceblue;
+}
+h3 {
+  color: gray;
+}
