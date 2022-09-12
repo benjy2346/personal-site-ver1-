@@ -30,3 +30,9 @@ h1 {
 #metalhand {
   margin-left: 300px;
 }
+.icon {
+  width: 10%;
+}
+#icon-row {
+  margin: 5%;
+}
